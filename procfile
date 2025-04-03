@@ -1,1 +1,2 @@
-worker: python3 patient_notification.py
+web: python patient_notification.py
+

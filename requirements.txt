@@ -1,0 +1,8 @@
+flask                      # If using Flask for the backend
+schedule                   # For scheduling tasks
+smtplib                    # For sending emails (built-in, but keep it in mind)
+email                      # Email handling
+pandas                     # If using DataFrames
+numpy                      # For numerical operations
+python-dotenv              # For environment variables
+gunicorn                   # To serve the Flask app
